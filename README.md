@@ -6,6 +6,12 @@
 
 Projeto React de listagem de repositórios utilizando a busca destes repositórios através da API do GitHub.
 
+## Como buscar?
+
+Para realizar a busca, digite conforme o modelo abaixo:
+
+`nome-do-usuario/nome-do-repositorio`
+
 ## Libs utilizadas
 
 - Styled Components
